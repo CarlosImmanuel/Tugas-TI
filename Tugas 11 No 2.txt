@@ -1,0 +1,9 @@
+Baris 1 : Header Iostream
+Baris 3 : Using namespace std berfungsi pada cout agar tidak menggunakan std::cout
+Baris 5 : Memasukkan fungsi utama pada int main
+Baris 6 : Mendeklarasikan pointer P
+Baris 7 : Membuat tempat memory baru untuk P
+Baris 9 : Menginput/memasukkan nilai P = 100
+Baris 11 : Menampilkan hasil output dari P
+Baris 12 : Menghapus nilai yang terdapat pada variabel P
+Baris 13 : Mengembalikan nilai ke 0, Program selesai
